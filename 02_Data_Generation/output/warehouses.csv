@@ -1,0 +1,16 @@
+WarehouseID,WarehouseName,LocationID,CapacityUnits
+1,Warehouse 001,35,212961
+2,Warehouse 002,13,138336
+3,Warehouse 003,7,62987
+4,Warehouse 004,42,50156
+5,Warehouse 005,46,117646
+6,Warehouse 006,4,98712
+7,Warehouse 007,43,228869
+8,Warehouse 008,14,89127
+9,Warehouse 009,22,177722
+10,Warehouse 010,30,181682
+11,Warehouse 011,32,116251
+12,Warehouse 012,21,107075
+13,Warehouse 013,33,167623
+14,Warehouse 014,39,111691
+15,Warehouse 015,23,89150
