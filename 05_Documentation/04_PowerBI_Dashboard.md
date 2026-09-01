@@ -1,8 +1,4 @@
-
 # 04 — Power BI Dashboard
-
-```markdown
-# Power BI Dashboard
 
 ## Overview
 
@@ -27,18 +23,18 @@ Provides an enterprise-level view of marketplace performance, customer value, an
 
 ### KPI Cards
 
-- Net Sales
-- Gross Profit
-- Gross Margin %
-- Orders
-- Customers
-- Average Order Value
+* Net Sales
+* Gross Profit
+* Gross Margin %
+* Orders
+* Customers
+* Average Order Value
 
 ### Filters
 
-- Year
-- Customer Segment
-- Category Name
+* Year
+* Customer Segment
+* Category Name
 
 ### Visuals
 
@@ -76,17 +72,17 @@ Examines sales drivers, order activity, customer demand, promotions, and discoun
 
 ### KPI Cards
 
-- Net Sales
-- Orders
-- Units Sold
-- Discount Rate
-- Average Order Value
+* Net Sales
+* Orders
+* Units Sold
+* Discount Rate
+* Average Order Value
 
 ### Filters
 
-- Promotion Type
-- Customer Segment
-- Category Name
+* Promotion Type
+* Customer Segment
+* Category Name
 
 ### Visuals
 
@@ -122,18 +118,18 @@ Focuses on delivery reliability, courier performance, fulfillment risk, and ship
 
 ### KPI Cards
 
-- Total Shipments
-- On-Time Delivery %
-- Late Delivery %
-- Failed Delivery %
-- Total Shipping Cost
+* Total Shipments
+* On-Time Delivery %
+* Late Delivery %
+* Failed Delivery %
+* Total Shipping Cost
 
 ### Filters
 
-- Year
-- Courier Name
-- Warehouse Name
-- Delivery Status
+* Year
+* Courier Name
+* Warehouse Name
+* Delivery Status
 
 ### Visuals
 
@@ -147,11 +143,11 @@ The relatively stable distribution reflects the fixed operational probabilities 
 
 A matrix comparing:
 
-- On-Time Delivery %
-- Late Delivery %
-- Failed Delivery %
-- Total Shipments
-- Average Shipping Cost
+* On-Time Delivery %
+* Late Delivery %
+* Failed Delivery %
+* Total Shipments
+* Average Shipping Cost
 
 Conditional formatting and in-cell data bars provide rapid comparison without requiring multiple additional charts.
 
@@ -173,16 +169,16 @@ Examines product portfolio performance, seller contribution, seller economics, a
 
 ### KPI Cards
 
-- Total Products Sold
-- Net Sales
-- Gross Margin %
-- Gross Profit
+* Total Products Sold
+* Net Sales
+* Gross Margin %
+* Gross Profit
 
 ### Filters
 
-- Year
-- Category Name
-- Product Status
+* Year
+* Category Name
+* Product Status
 
 ### Visuals
 
@@ -208,11 +204,11 @@ Compares average order value across seller types.
 
 A compact analytical matrix containing:
 
-- Seller Name
-- Products Sold
-- Net Sales
-- Item Gross Profit
-- Gross Margin %
+* Seller Name
+* Products Sold
+* Net Sales
+* Item Gross Profit
+* Gross Margin %
 
 This provides detailed seller-level information without requiring another large visual.
 
@@ -222,16 +218,16 @@ This provides detailed seller-level information without requiring another large 
 
 The dashboard uses:
 
-- Slicers
-- Cross-filtering
-- Drill-down
-- Tooltips
-- Reset buttons
-- Active dimension relationships
-- Conditional formatting
-- Data bars
-- KPI cards
-- Analytical matrices
+* Slicers
+* Cross-filtering
+* Drill-down
+* Tooltips
+* Reset buttons
+* Active dimension relationships
+* Conditional formatting
+* Data bars
+* KPI cards
+* Analytical matrices
 
 The interaction design allows users to move between executive summaries and detailed business segments without requiring separate dashboards for every question.
 
@@ -243,18 +239,18 @@ Measures were created according to the grain of the underlying fact table.
 
 Examples include:
 
-- Total Net Sales
-- Item Net Sales
-- Gross Profit
-- Gross Margin %
-- Total Orders
-- Total Products Sold
-- Average Order Value
-- Discount Rate
-- On-Time Delivery %
-- Late Delivery %
-- Failed Delivery %
-- Average Shipping Cost
+* Total Net Sales
+* Item Net Sales
+* Gross Profit
+* Gross Margin %
+* Total Orders
+* Total Products Sold
+* Average Order Value
+* Discount Rate
+* On-Time Delivery %
+* Late Delivery %
+* Failed Delivery %
+* Average Shipping Cost
 
 Item-level measures were used where product, seller, category, or promotion dimensions depend on `FactOrderItems`.
 
@@ -276,13 +272,13 @@ This was demonstrated during the promotion-key correction, where the database wa
 
 The dashboard prioritizes:
 
-- Business questions over visual quantity
-- Correct analytical grain
-- Clear executive hierarchy
-- Minimal visual redundancy
-- Appropriate visual selection
-- Interactive exploration
-- Operational usefulness
-- Honest interpretation of synthetic data
+* Business questions over visual quantity
+* Correct analytical grain
+* Clear executive hierarchy
+* Minimal visual redundancy
+* Appropriate visual selection
+* Interactive exploration
+* Operational usefulness
+* Honest interpretation of synthetic data
 
 The objective is not to maximize the number of charts, but to make each visual answer a distinct business question.
