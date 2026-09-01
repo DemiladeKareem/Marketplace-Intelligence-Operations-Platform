@@ -5,7 +5,7 @@
 > into commercial and operational decisions.**
 
 <figure>
-<img src="Images/01_Executive_Overview.png" alt="Executive Overview" />
+<img src="images/01_Executive_Overview.png" alt="Executive Overview" />
 <figcaption aria-hidden="true">Executive Overview</figcaption>
 </figure>
 
@@ -240,7 +240,7 @@ This distinction became particularly important when building the Power
 BI measures.
 
 <figure>
-<img src="Images/05_Star_Schema.png" alt="Star Schema" />
+<img src="images/05_Star_Schema.png" alt="Star Schema" />
 <figcaption aria-hidden="true">Star Schema</figcaption>
 </figure>
 
@@ -326,7 +326,7 @@ with analysis of:
 - Courier cost and delivery reliability
 
 <figure>
-<img src="Images/01_Executive_Overview.png" alt="Executive Overview" />
+<img src="images/01_Executive_Overview.png" alt="Executive Overview" />
 <figcaption aria-hidden="true">Executive Overview</figcaption>
 </figure>
 
@@ -348,7 +348,7 @@ It examines:
 - Average order value
 
 <figure>
-<img src="Images/02_Commercial_Performance.png"
+<img src="images/02_Commercial_Performance.png"
 alt="Commercial Performance" />
 <figcaption aria-hidden="true">Commercial Performance</figcaption>
 </figure>
@@ -373,7 +373,7 @@ It focuses on:
 - Fulfillment distribution
 
 <figure>
-<img src="Images/03_Operations_Fulfillment.png"
+<img src="images/03_Operations_Fulfillment.png"
 alt="Operations &amp; Fulfillment" />
 <figcaption aria-hidden="true">Operations &amp; Fulfillment</figcaption>
 </figure>
@@ -396,7 +396,7 @@ It provides:
 - Detailed seller performance
 
 <figure>
-<img src="Images/04_Product_Seller_Performance.png"
+<img src="images/04_Product_Seller_Performance.png"
 alt="Product &amp; Seller Performance" />
 <figcaption aria-hidden="true">Product &amp; Seller
 Performance</figcaption>
